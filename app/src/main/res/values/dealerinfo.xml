@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subaru">
+        <item>Berman Subaru of Chicago: 4330 W Irving Park Rd, Chicago, IL 60641</item>
+        <item>Evanston Subaru in Skokie: 3340 Oakton St, Skokie, IL 60076</item>
+    </string-array>
+
+    <string-array name="kia">
+        <item>Grossinger Kia: 6750 W Grand Ave, Chicago, IL 60707</item>
+        <item>Napleton River Oaks Kia: 1951 River Oaks Dr, Calumet City, IL 60409</item>
+    </string-array>
+
+    <string-array name="jeep">
+        <item>Sherman Dodge Chrysler Jeep RAM: 7601 Skokie Blvd, Skokie, IL 60077</item>
+        <item>Zeigler Chrysler Dodge Jeep RAM of Schaumburg: 208 W Golf Rd, Schaumburg, IL 60195</item>
+    </string-array>
+
+    <string-array name="dodge">
+        <item>South Chicago Dodge Chrysler Jeep RAM: 7340 S Western Ave, Chicago, IL 60636</item>
+        <item>Bettenhausen Dodge Ram: 8355 W 159th St, Tinley Park, IL 60477</item>
+    </string-array>
+
+    <string-array name="jaguar">
+        <item>Howard Orloff Jaguar: 1924 N Paulina St, Chicago, IL 60622</item>
+        <item>Imperial Motors Jaguar of Lake Bluff: 150 Skokie Hwy, Lake Bluff, IL 60044</item>
+    </string-array>
+
+    <string-array name="mercedes">
+        <item>Mercedes-Benz of Chicago: 1520 W North Ave, Chicago, IL 60642</item>
+        <item>Loeber Motors Mercedes-Benz: 4255 W Touhy Ave, Lincolnwood, IL 60712</item>
+    </string-array>
+
+    <string-array name="lincoln">
+        <item>Highland Park Lincoln: 55 Skokie Valley Rd, Highland Park, IL 60035</item>
+        <item>Napleton Lincoln of Glenview: 1620 Waukegan Rd, Glenview, IL 60025</item>
+    </string-array>
+
+    <string-array name="mazda">
+        <item>The Autobarn Mazda of Evanston: 1015 Chicago Ave, Evanston, IL 60202</item>
+        <item>Pugi Mazda: 1850 Ogden Ave, Downers Grove, IL 60515</item>
+    </string-array>
+</resources>
